@@ -1,4 +1,3 @@
----
 # Fingerprint Recognition & AI – What I Learned
 ---
 
