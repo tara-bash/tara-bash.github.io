@@ -1,7 +1,7 @@
 ## Tara Bashirzadeh
 
 ---
-My ELEC4702 Blog
+My ELEC4630 Blog
 ---
 
 # 👋 Welcome!
@@ -21,22 +21,28 @@ Hi! I'm a **4th-year Electrical and Computer Engineering student** at *The Unive
 
 ---
 
-## Weekly Progress Tracker
+## Weekly Progress Tracker For Course
 
 | Week | Focus                                 | Status  |
 |------|----------------------------------------|---------|
-| 1    | FastPages + GitHub Blog Setup          | ✅ Done |
-| 2    | Fingerprint Recognition + OpenCV       | ✅ Done |
-| 3    | ROC Curve Analysis + AUC Evaluation    | ⏳ In Progress |
-| 4    | Exploring Transfer Learning            | ⏳ Not Started |
+| 1    | Fundamentals                           | ✅ Done |
+| 2    | Pyramids and Hough Transform           | ✅ Done |
+| 3    | CV Case Study Fingerprint Recognition  | ✅ Done |
+| 4    | Introduction to Deep Learning          | ✅ Done |
+| 5    | Bird and Bear Recogniser               | ✅ Done |
+| 6    | MNIST and Pets                         | ✅ Done |
+| 7/8  | Deep Learning (Dr Yujun Cai)           | ⏳ In Progress |
+| 8    | Pets and Multi-Category                | ⏳ Not Started |
 
 ---
 
-## Learnings 
+## Learnings From
 
-![Fast.ai Logo](images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="Fast.ai Logo" width="200">
+  <img src="images/OIP.jpg" alt="UQ Logo" width="200">
+</p>
 
-You can add any image using:
 
-```markdown
-![UQ Logo](images/image_name.png)
+
+
