@@ -20,7 +20,7 @@ I tried different batch sizes to observe how they affect training time on the GP
 
 ```python
 bs_values = [16, 32, 64, 128, 256]
-
+```
 ## GPU Results: Training Time vs Batch Size
 
 I experimented with different batch sizes and recorded the time taken to complete training (`learn.fine_tune(3)`) while using a GPU.
