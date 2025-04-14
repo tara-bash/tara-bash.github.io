@@ -1,12 +1,42 @@
----
-layout: home
-title: Blog for ELEC4702
----
 ## Tara Bashirzadeh
-I am a fourth year electrical and computer engineering student at The University of Queensland and I have started this blog to help me track and document my progress and what I have learned about AI from the [link to fast.ai](https://www.fast.ai) course using Github Pages. 
 
-![Image of fast.ai logo](images/logo.png)
+---
+My ELEC4702 Blog
+---
 
-<img src="https://course.fast.ai/images/logo.png" alt="fastai logo" width="150" style="float:left; margin-right:20px;"/>
+# 👋 Welcome!
 
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+> *"Learning is most effective when shared."*
+
+Hi! I'm a **4th-year Electrical and Computer Engineering student** at *The University of Queensland*, and this blog is where I document what I'm learning through the [fast.ai](https://www.fast.ai) course and ELEC4702.
+
+---
+
+## Blog Overview
+
+- **Course**: ELEC4702 – [Computer Vision and Deep Learning](https://programs-courses.uq.edu.au/course.html?course_code=ELEC4630)
+- **Platform**: [GitHub Pages](https://pages.github.com)
+- **Framework**: [fast.ai](https://www.fast.ai)
+- **Tools**: Jupyter Notebooks, Python, PyTorch
+
+---
+
+## Weekly Progress Tracker
+
+| Week | Focus                                 | Status  |
+|------|----------------------------------------|---------|
+| 1    | FastPages + GitHub Blog Setup          | ✅ Done |
+| 2    | Fingerprint Recognition + OpenCV       | ✅ Done |
+| 3    | ROC Curve Analysis + AUC Evaluation    | ⏳ In Progress |
+| 4    | Exploring Transfer Learning            | ⏳ Not Started |
+
+---
+
+## Learnings 
+
+![Fast.ai Logo](images/logo.png)
+
+You can add any image using:
+
+```markdown
+![UQ Logo](images/image_name.png)
