@@ -1,4 +1,3 @@
----
 # How Batch Size Affects Training Speed in fastai
 ---
 
