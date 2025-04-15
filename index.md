@@ -1,20 +1,20 @@
-## Tara Bashirzadeh
+## My ELEC4630 Blog
 
 ---
-My ELEC4630 Blog
+Tara Bashirzadeh
 ---
 
 # 👋 Welcome!
 
 > *"Learning is most effective when shared."*
 
-Hi! I'm a **4th-year Electrical and Computer Engineering student** at *The University of Queensland*, and this blog is where I document what I'm learning through the [fast.ai](https://www.fast.ai) course and ELEC4702.
+Hi! I'm a **4th-year Electrical and Computer Engineering student** at *The University of Queensland*, and this blog is where I document what I'm learning through the [fast.ai](https://www.fast.ai) course and ELEC4630.
 
 ---
 
 ## Blog Overview
 
-- **Course**: ELEC4702 – [Computer Vision and Deep Learning](https://programs-courses.uq.edu.au/course.html?course_code=ELEC4630)
+- **Course**: ELEC4630 – [Computer Vision and Deep Learning](https://programs-courses.uq.edu.au/course.html?course_code=ELEC4630)
 - **Platform**: [GitHub Pages](https://pages.github.com)
 - **Framework**: [fast.ai](https://www.fast.ai)
 - **Tools**: Jupyter Notebooks, Python, PyTorch
