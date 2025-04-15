@@ -4,6 +4,8 @@
 In this post, I’ll walk through an experiment I ran using the [fastai](https://www.fast.ai) library to investigate how **batch size impacts training time** on both **GPU and CPU**. This was a practical learning exercise inspired by one of our AI assignments in ELEC4702.
 
 ---
+1. TOC
+{:toc}
 
 ## The Dataset and Task
 
