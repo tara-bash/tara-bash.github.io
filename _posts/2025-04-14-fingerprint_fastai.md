@@ -1,4 +1,4 @@
-# Fingerprint Recognition & AI – What I Learned
+# Fingerprint Recognition and AI – What I Learned
 ---
 
 I’ve been working on a fingerprint recognition project as part of my ELEC4702 course, and it gave me a real opportunity to apply some of the concepts from the [fast.ai](https://www.fast.ai) course in a practical way.
