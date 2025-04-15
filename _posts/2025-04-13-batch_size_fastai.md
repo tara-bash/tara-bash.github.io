@@ -79,4 +79,4 @@ I also got better at using tools like `nvtop`, Python timing functions, and `dls
 
 Finding the right batch size is often about **balancing performance with memory limits**. fastai makes it easy to experiment quickly and visualize the impact of each change. This project demonstrated how drastically **hardware choices** affect machine learning workflows.
 
-Thanks for reading! 👋 Check out more of my projects [on GitHub](https://github.com/yourusername).
+Thanks for reading! 👋 Check out more of my projects [on GitHub](https://github.com/tara-bash).
