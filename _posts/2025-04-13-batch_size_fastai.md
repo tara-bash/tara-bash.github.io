@@ -60,6 +60,7 @@ This shows that the GPU was **~46× faster** than the CPU for this task — a ma
 To monitor GPU usage during training, I ran the `nvtop` tool in a second terminal tab. It clearly showed GPU spikes during each epoch of training, confirming proper GPU utilisation and memory activity.
 
 ![nvtop output](/images/nvtop.png)
+
 ---
 
 ## What I Learned from fastai
