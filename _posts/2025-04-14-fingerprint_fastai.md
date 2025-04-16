@@ -49,9 +49,9 @@ Here are some key takeaways from running my code:
 
 - Matching accuracy was high when comparing enrolled fingerprints to themselves (as expected), but harder when comparing across different versions of the same finger due to alignment and noise
 - Tuning the **threshold** for similarity scoring was critical: too low and nothing matched, too high and false positives crept in
-- ROC curves helped identify the **sweet spot**: for a 1% False Negative Rate, the False Positive Rate was around ...% in my system
+- ROC curves helped identify the **sweet spot**: for a 1% False Negative Rate, the False Positive Rate was around 60% in my system
 
-![Sample ROC Curve](images/roc_example.png)
+![Sample ROC Curve](/images/roc_example.png)
 
 ---
 
