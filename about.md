@@ -15,6 +15,3 @@ Each post dives into a specific concept or project, with code walkthroughs and r
 More posts coming soon as I continue learning!
 
 > **Note:** Primary Focus of this Blog is to share my learning; not only through fastai or ELEC4630, but also with all my learning at the <ins>Univeristy of Queensland</ins>.
-
-> [!NOTE]
-> Primary Focus of this Blog is to share my learning; not only through fastai or ELEC4630, but also with all my learning at the <ins>Univeristy of Queensland</ins>.
