@@ -42,16 +42,16 @@ The fastest training occurred with **batch size 64**, striking a good balance be
 
 To understand the **advantage of using a GPU**, I ran the same training process using a **CPU-only** environment (by switching to a CPU-based dev container in VS Code). For batch size 64, training took:
 
-- **CPU training time:** 425.7 seconds  
+- **CPU training time:** 192.3 seconds  
 - **GPU training time:** 9.3 seconds
 
-Using this, I calculated the speedup using the formula:
+Using this, I calculated the maximum speedup using the formula:
 
 $$
-\text{Speedup} = \frac{\text{CPU Time}}{\text{GPU Time}} = \frac{425.7}{9.3} = 45.77
+\text{Speedup} = \frac{\text{CPU Time}}{\text{GPU Time}} = \frac{192.3}{9.3} = 20.68
 $$
 
-This shows that the GPU was **~46× faster** than the CPU for this task — a massive difference, especially when working with deep learning models.
+This shows that the GPU was **~21× faster** than the CPU for this task — a massive difference, especially when working with deep learning models.
 
 ---
 
